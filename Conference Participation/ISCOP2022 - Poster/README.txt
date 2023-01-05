@@ -1,0 +1,1 @@
+Gal Samuel, Massimo Stella, Roger E. Beaty & Yoed N. Kenett (2022). Predicting Openness to Experience via a Multiplex Cognitive Network Approach. The 9th Israeli Conference on Cognition Research (ISCOP 2022).

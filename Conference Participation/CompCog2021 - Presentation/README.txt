@@ -1,0 +1,1 @@
+Gal Samuel, Massimo Stella, Roger E. Beaty & Yoed N. Kenett (2021). Predicting Openness to Experience via a Multiplex Cognitive Network Approach. Complexity and Cognition (CompCog), Conference on Complex Systems (CCS2021).
