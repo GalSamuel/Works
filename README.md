@@ -7,7 +7,7 @@ It contains data preprocessing, basic analysis (regarding relation between varia
 
 There is another chunk of the project that will not be there due to copyrights, but was part of the project (the missing piece if you may): A Wolfram Mathematica code that creates a multiplex network (graph) and then computes measures for each participant based on their responses in the experiment. I did not create this code myself (one of the contributing authors did) which is why it is not here.
 
-If you want to see the bigger picture, you can download the PPT or the thesis dissertation (Thesis Dissertation and PPT folder), or contact me - gal.samuel@gmail.com .
+If you want to know more about the research, you can download the PPT or the thesis dissertation (Thesis Dissertation and PPT folder), or contact me - gal.samuel@gmail.com.
 
 The first study in this research was published in a The Journal of Research in Personality:
 https://www.sciencedirect.com/science/article/abs/pii/S0092656623000314
