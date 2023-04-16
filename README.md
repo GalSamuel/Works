@@ -3,7 +3,7 @@
 Hey!
 
 In the Thesis Code folder you will find my thesis code files (quite self explanatory I guess).
-It contains data preprocessing, basic analysis (regarding relation between variables) of the data which I collected in my research, followed by a stepwise regression algorithm (actually 2 of them, one for prediction and one for classification) that I built. This algorithm is intended to optimize feature selection.
+It contains data preprocessing, basic analysis (regarding relation between variables) of the data which I collected in my research, and a stepwise regression algorithm (actually 2 of them, one for prediction and one for classification) that I built. This algorithm is intended to optimize feature selection.
 
 There is another chunk of the project that will not be there due to copyrights, but was part of the project (the missing piece if you may): A Wolfram Mathematica code that creates a multiplex network (graph) and then computes measures for each participant based on their responses in the experiment. I did not create this code myself (one of the contributing authors did) which is why it is not here.
 
