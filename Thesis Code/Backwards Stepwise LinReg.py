@@ -1,10 +1,10 @@
 #%% Backwards Stepwise regression, by MSE
-from sklearn import linear_model
-from sklearn.model_selection import LeaveOneOut
-from scipy.stats import pearsonr
-from sklearn.model_selection import cross_val_score
-def BackwardsStepwise(df, target, hotoranimal):
+def BackwardsStepwise(df, target, todrop=[]):
     from sklearn.preprocessing import StandardScaler
+    from sklearn import linear_model
+    from sklearn.model_selection import LeaveOneOut
+    from scipy.stats import pearsonr
+    from sklearn.model_selection import cross_val_score
     scaler=StandardScaler()
     sns.set_palette("RdYlGn", 3)
     if hotoranimal=="hot":
